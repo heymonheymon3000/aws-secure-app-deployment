@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-### 🛠️ Services used
+## 🛠️ Services used
 
 ## ☁️ AWS Architecture
 
